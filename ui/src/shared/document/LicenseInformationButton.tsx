@@ -13,7 +13,7 @@ export default function LicenseInformationButton({ license }: { license: string 
     const { t } = useTranslation();
 
     return <>
-        { license && 
+        { license &&
             <Button variant="link" style={ buttonStyle } onClick={ () => setModalOpened(true) }>
                 <div style={ iconStyle }>
                 <Icon path={ mdiScaleBalance } />
@@ -32,8 +32,8 @@ const renderLicenseInformationModal = (modalOpened: boolean, setModalOpened: (op
         <Button onClick={ () => setModalOpened(false) } style={ closeButtonStyle }>
             <Icon path={ mdiClose } size={ 0.8 } className="close-button-icon" />
         </Button>
-        <h2 style={ paragraphStyle }>{ t('licenseInformation.modal.title') }</h2>
-        <div style={ paragraphStyle }>{ license } </div>
+        <h2 style={ titleStyle }>{ t('licenseInformation.modal.title') }</h2>
+        <div style={ licenseTextStyle }>{ license } </div>
     </Modal>
 );
 
@@ -68,8 +68,14 @@ const modalStyle = {
 };
 
 
-const paragraphStyle: CSSProperties = {
+const titleStyle: CSSProperties = {
     marginBottom: '1rem'
+};
+
+
+const licenseTextStyle: CSSProperties = {
+    maxHeight: 'calc(100vh - 200px)',
+    overflowY: 'auto'
 };
 
 
