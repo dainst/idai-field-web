@@ -29,6 +29,7 @@ export interface Resource {
     childrenCount: number;
     parentId: string;
     grandparentId: string;
+    license?: string;
 }
 
 

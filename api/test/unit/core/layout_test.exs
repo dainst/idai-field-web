@@ -31,16 +31,19 @@ defmodule Api.Core.LayoutTest do
       ]
     }
 
+    project_resource = %{ license: "Test-Lizenz" }
+
     start_supervised({Api.Core.ProjectConfigLoader, {"test/resources", ["test-project"]}})
     configuration = Api.Core.ProjectConfigLoader.get("test-project")
 
-    layouted_resource = Layout.to_layouted_resource(configuration, resource )
+    layouted_resource = Layout.to_layouted_resource(configuration, resource, project_resource)
 
     assert layouted_resource == %{
       :id => "42",
       :category => %{ label: %{ de: "Maßnahme", en: "Operation" }, name: "Operation" },
       :parentId => "45",
       :grandparentId => "40",
+      :license => "Test-Lizenz",
       :groups => [%{
         name: "stem",
         fields: [

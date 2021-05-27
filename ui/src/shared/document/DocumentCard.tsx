@@ -5,6 +5,7 @@ import { getDocumentPermalink } from './document-utils';
 import DocumentDetails from './DocumentDetails';
 import DocumentPermalinkButton from './DocumentPermalinkButton';
 import DocumentTeaser from './DocumentTeaser';
+import LicenseInformationButton from './LicenseInformationButton';
 
 
 interface DocumentCardProps {
@@ -26,6 +27,7 @@ export default function DocumentCard({ document, baseUrl, cardStyle = {}, header
                     <DocumentTeaser document={ document } showShortDescription="none" />
                 </div>
                 <div style={ permalinkButtonContainerStyle }>
+                    <LicenseInformationButton license={ document.resource.license } />
                     <DocumentPermalinkButton url={ getDocumentPermalink(document) } />
                 </div>
             </Card.Header>

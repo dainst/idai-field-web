@@ -60,6 +60,11 @@
   "permalinkButton": {
     "title": "Permalink"
   },
+  "licenseInformation": {
+    "modal": {
+      "title": "License information"
+    }
+  },
   "widgets": {
     "total": {
       "total": "Total of",
