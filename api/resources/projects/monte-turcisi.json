@@ -21,7 +21,7 @@
                 "de": "Kategorie",
                 "en": "Category",
                 "es": "Categoría",
-                "it": "Kategorie"
+                "it": "Categoria"
               },
               "description": {}
             },
@@ -40,13 +40,13 @@
                 "de": "Bezeichner",
                 "en": "Identifier",
                 "es": "Identificador",
-                "it": "Bezeichner"
+                "it": "Identificatore"
               },
               "description": {
                 "de": "Eindeutiger Bezeichner dieser Ressource",
                 "en": "Unique identifier of this resource",
                 "es": "Identificador único de este recurso",
-                "it": "Eindeutiger Bezeichner dieser Ressource"
+                "it": "Identificatore unico di questa risorsa"
               }
             },
             {
@@ -56,7 +56,7 @@
                 "de": "Kurzbeschreibung",
                 "en": "Short description",
                 "es": "Breve descripción",
-                "it": "Kurzbeschreibung"
+                "it": "Descrizione breve"
               },
               "description": {}
             },
@@ -146,7 +146,7 @@
                 "de": "Wird gezeigt in",
                 "en": "Depicted in",
                 "es": "Representado en",
-                "it": "Wird gezeigt in"
+                "it": "È rappresentato in"
               },
               "description": {}
             },
@@ -155,7 +155,7 @@
               "label": {
                 "de": "Hat Kartenhintergrund",
                 "en": "Has map layer",
-                "it": "Hat Kartenhintergrund"
+                "it": "Ha lo sfondo cartografico"
               },
               "description": {}
             },
@@ -311,7 +311,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -330,13 +330,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -346,7 +346,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -451,7 +451,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -460,7 +460,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -814,7 +814,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -833,13 +833,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -849,7 +849,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -939,7 +939,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -948,7 +948,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -2031,7 +2031,8 @@
                       },
                       "Frühbyzantinisch": {
                         "labels": {
-                          "de": "Frühbyzantinisch"
+                          "de": "Frühbyzantinisch",
+                          "it": "Primo periodo Bizantino"
                         }
                       },
                       "Frühhellenistisch": {
@@ -2177,7 +2178,7 @@
                 "de": "Zeit",
                 "en": "Time",
                 "es": "Cronología",
-                "it": "Tempo"
+                "it": "Cronologia"
               }
             }
           ],
@@ -2209,7 +2210,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -2228,13 +2229,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -2244,7 +2245,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -2334,7 +2335,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -2343,7 +2344,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -2594,7 +2595,7 @@
                 "de": "Kategorie",
                 "en": "Category",
                 "es": "Categoría",
-                "it": "Kategorie"
+                "it": "Categoria"
               },
               "description": {}
             },
@@ -2613,13 +2614,13 @@
                 "de": "Bezeichner",
                 "en": "Identifier",
                 "es": "Identificador",
-                "it": "Bezeichner"
+                "it": "Identificatore"
               },
               "description": {
                 "de": "Eindeutiger Bezeichner dieser Ressource",
                 "en": "Unique identifier of this resource",
                 "es": "Identificador único de este recurso",
-                "it": "Eindeutiger Bezeichner dieser Ressource"
+                "it": "Identificatore unico di questa risorsa"
               }
             },
             {
@@ -2629,7 +2630,7 @@
                 "de": "Kurzbeschreibung",
                 "en": "Short description",
                 "es": "Breve descripción",
-                "it": "Kurzbeschreibung"
+                "it": "Descrizione breve"
               },
               "description": {}
             }
@@ -2641,7 +2642,7 @@
                 "de": "Wird gezeigt in",
                 "en": "Depicted in",
                 "es": "Representado en",
-                "it": "Wird gezeigt in"
+                "it": "È rappresentato in"
               },
               "description": {}
             },
@@ -2650,7 +2651,7 @@
               "label": {
                 "de": "Hat Kartenhintergrund",
                 "en": "Has map layer",
-                "it": "Hat Kartenhintergrund"
+                "it": "Ha lo sfondo cartografico"
               },
               "description": {}
             },
@@ -2986,7 +2987,7 @@
             "de": "Zeit",
             "en": "Time",
             "es": "Cronología",
-            "it": "Tempo"
+            "it": "Cronologia"
           }
         }
       ],
@@ -3018,7 +3019,7 @@
                 "de": "Kategorie",
                 "en": "Category",
                 "es": "Categoría",
-                "it": "Kategorie"
+                "it": "Categoria"
               },
               "description": {}
             },
@@ -3037,13 +3038,13 @@
                 "de": "Bezeichner",
                 "en": "Identifier",
                 "es": "Identificador",
-                "it": "Bezeichner"
+                "it": "Identificatore"
               },
               "description": {
                 "de": "Eindeutiger Bezeichner dieser Ressource",
                 "en": "Unique identifier of this resource",
                 "es": "Identificador único de este recurso",
-                "it": "Eindeutiger Bezeichner dieser Ressource"
+                "it": "Identificatore unico di questa risorsa"
               }
             },
             {
@@ -3053,7 +3054,7 @@
                 "de": "Kurzbeschreibung",
                 "en": "Short description",
                 "es": "Breve descripción",
-                "it": "Kurzbeschreibung"
+                "it": "Descrizione breve"
               },
               "description": {}
             },
@@ -3142,7 +3143,7 @@
                 "de": "Wird gezeigt in",
                 "en": "Depicted in",
                 "es": "Representado en",
-                "it": "Wird gezeigt in"
+                "it": "È rappresentato in"
               },
               "description": {}
             },
@@ -3151,7 +3152,7 @@
               "label": {
                 "de": "Hat Kartenhintergrund",
                 "en": "Has map layer",
-                "it": "Hat Kartenhintergrund"
+                "it": "Ha lo sfondo cartografico"
               },
               "description": {}
             },
@@ -3788,7 +3789,7 @@
                 "de": "Gleich wie",
                 "en": "Equivalent to",
                 "es": "Corresponde con",
-                "it": "Gleich wie"
+                "it": "Uguale a"
               },
               "description": {}
             },
@@ -3893,7 +3894,8 @@
                   },
                   "Frühbyzantinisch": {
                     "labels": {
-                      "de": "Frühbyzantinisch"
+                      "de": "Frühbyzantinisch",
+                      "it": "Primo periodo Bizantino"
                     }
                   },
                   "Frühhellenistisch": {
@@ -4041,7 +4043,7 @@
                 "de": "Zeitlich nach",
                 "en": "After",
                 "es": "Cronología: después de",
-                "it": "Zeitlich nach"
+                "it": "Cronologicamente posteriore a"
               },
               "description": {}
             },
@@ -4051,7 +4053,7 @@
                 "de": "Zeitlich vor",
                 "en": "Before",
                 "es": "Cronología: antes de",
-                "it": "Zeitlich vor"
+                "it": "Cronologicamente anteriore a"
               },
               "description": {}
             },
@@ -4061,7 +4063,7 @@
                 "de": "Zeitgleich mit",
                 "en": "Contemporary with",
                 "es": "Cronología: simultáneo con",
-                "it": "Zeitgleich mit"
+                "it": "Contemporaneo a"
               },
               "description": {}
             }
@@ -4070,7 +4072,7 @@
             "de": "Zeit",
             "en": "Time",
             "es": "Cronología",
-            "it": "Tempo"
+            "it": "Cronologia"
           }
         }
       ],
@@ -4101,7 +4103,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -4120,13 +4122,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -4136,7 +4138,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -4225,7 +4227,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -4234,7 +4236,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -5338,7 +5340,7 @@
                     "de": "Gleich wie",
                     "en": "Equivalent to",
                     "es": "Corresponde con",
-                    "it": "Gleich wie"
+                    "it": "Uguale a"
                   },
                   "description": {}
                 },
@@ -5443,7 +5445,8 @@
                       },
                       "Frühbyzantinisch": {
                         "labels": {
-                          "de": "Frühbyzantinisch"
+                          "de": "Frühbyzantinisch",
+                          "it": "Primo periodo Bizantino"
                         }
                       },
                       "Frühhellenistisch": {
@@ -5591,7 +5594,7 @@
                     "de": "Zeitlich nach",
                     "en": "After",
                     "es": "Cronología: después de",
-                    "it": "Zeitlich nach"
+                    "it": "Cronologicamente posteriore a"
                   },
                   "description": {}
                 },
@@ -5601,7 +5604,7 @@
                     "de": "Zeitlich vor",
                     "en": "Before",
                     "es": "Cronología: antes de",
-                    "it": "Zeitlich vor"
+                    "it": "Cronologicamente anteriore a"
                   },
                   "description": {}
                 },
@@ -5611,7 +5614,7 @@
                     "de": "Zeitgleich mit",
                     "en": "Contemporary with",
                     "es": "Cronología: simultáneo con",
-                    "it": "Zeitgleich mit"
+                    "it": "Contemporaneo a"
                   },
                   "description": {}
                 }
@@ -5620,7 +5623,7 @@
                 "de": "Zeit",
                 "en": "Time",
                 "es": "Cronología",
-                "it": "Tempo"
+                "it": "Cronologia"
               }
             }
           ],
@@ -5652,7 +5655,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -5671,13 +5674,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -5687,7 +5690,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -5776,7 +5779,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -5785,7 +5788,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -7113,7 +7116,7 @@
                     "de": "Gleich wie",
                     "en": "Equivalent to",
                     "es": "Corresponde con",
-                    "it": "Gleich wie"
+                    "it": "Uguale a"
                   },
                   "description": {}
                 },
@@ -7218,7 +7221,8 @@
                       },
                       "Frühbyzantinisch": {
                         "labels": {
-                          "de": "Frühbyzantinisch"
+                          "de": "Frühbyzantinisch",
+                          "it": "Primo periodo Bizantino"
                         }
                       },
                       "Frühhellenistisch": {
@@ -7366,7 +7370,7 @@
                     "de": "Zeitlich nach",
                     "en": "After",
                     "es": "Cronología: después de",
-                    "it": "Zeitlich nach"
+                    "it": "Cronologicamente posteriore a"
                   },
                   "description": {}
                 },
@@ -7376,7 +7380,7 @@
                     "de": "Zeitlich vor",
                     "en": "Before",
                     "es": "Cronología: antes de",
-                    "it": "Zeitlich vor"
+                    "it": "Cronologicamente anteriore a"
                   },
                   "description": {}
                 },
@@ -7386,7 +7390,7 @@
                     "de": "Zeitgleich mit",
                     "en": "Contemporary with",
                     "es": "Cronología: simultáneo con",
-                    "it": "Zeitgleich mit"
+                    "it": "Contemporaneo a"
                   },
                   "description": {}
                 }
@@ -7395,7 +7399,7 @@
                 "de": "Zeit",
                 "en": "Time",
                 "es": "Cronología",
-                "it": "Tempo"
+                "it": "Cronologia"
               }
             }
           ],
@@ -7427,7 +7431,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -7446,13 +7450,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -7462,7 +7466,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -7551,7 +7555,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -7560,7 +7564,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -8698,7 +8702,7 @@
                     "de": "Gleich wie",
                     "en": "Equivalent to",
                     "es": "Corresponde con",
-                    "it": "Gleich wie"
+                    "it": "Uguale a"
                   },
                   "description": {}
                 },
@@ -8803,7 +8807,8 @@
                       },
                       "Frühbyzantinisch": {
                         "labels": {
-                          "de": "Frühbyzantinisch"
+                          "de": "Frühbyzantinisch",
+                          "it": "Primo periodo Bizantino"
                         }
                       },
                       "Frühhellenistisch": {
@@ -8951,7 +8956,7 @@
                     "de": "Zeitlich nach",
                     "en": "After",
                     "es": "Cronología: después de",
-                    "it": "Zeitlich nach"
+                    "it": "Cronologicamente posteriore a"
                   },
                   "description": {}
                 },
@@ -8961,7 +8966,7 @@
                     "de": "Zeitlich vor",
                     "en": "Before",
                     "es": "Cronología: antes de",
-                    "it": "Zeitlich vor"
+                    "it": "Cronologicamente anteriore a"
                   },
                   "description": {}
                 },
@@ -8971,7 +8976,7 @@
                     "de": "Zeitgleich mit",
                     "en": "Contemporary with",
                     "es": "Cronología: simultáneo con",
-                    "it": "Zeitgleich mit"
+                    "it": "Contemporaneo a"
                   },
                   "description": {}
                 }
@@ -8980,7 +8985,7 @@
                 "de": "Zeit",
                 "en": "Time",
                 "es": "Cronología",
-                "it": "Tempo"
+                "it": "Cronologia"
               }
             }
           ],
@@ -9012,7 +9017,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -9031,13 +9036,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -9047,7 +9052,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -9136,7 +9141,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -9145,7 +9150,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -10746,7 +10751,7 @@
                     "de": "Gleich wie",
                     "en": "Equivalent to",
                     "es": "Corresponde con",
-                    "it": "Gleich wie"
+                    "it": "Uguale a"
                   },
                   "description": {}
                 },
@@ -10851,7 +10856,8 @@
                       },
                       "Frühbyzantinisch": {
                         "labels": {
-                          "de": "Frühbyzantinisch"
+                          "de": "Frühbyzantinisch",
+                          "it": "Primo periodo Bizantino"
                         }
                       },
                       "Frühhellenistisch": {
@@ -10999,7 +11005,7 @@
                     "de": "Zeitlich nach",
                     "en": "After",
                     "es": "Cronología: después de",
-                    "it": "Zeitlich nach"
+                    "it": "Cronologicamente posteriore a"
                   },
                   "description": {}
                 },
@@ -11009,7 +11015,7 @@
                     "de": "Zeitlich vor",
                     "en": "Before",
                     "es": "Cronología: antes de",
-                    "it": "Zeitlich vor"
+                    "it": "Cronologicamente anteriore a"
                   },
                   "description": {}
                 },
@@ -11019,7 +11025,7 @@
                     "de": "Zeitgleich mit",
                     "en": "Contemporary with",
                     "es": "Cronología: simultáneo con",
-                    "it": "Zeitgleich mit"
+                    "it": "Contemporaneo a"
                   },
                   "description": {}
                 }
@@ -11028,7 +11034,7 @@
                 "de": "Zeit",
                 "en": "Time",
                 "es": "Cronología",
-                "it": "Tempo"
+                "it": "Cronologia"
               }
             }
           ],
@@ -11060,7 +11066,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -11079,13 +11085,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -11095,7 +11101,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -11184,7 +11190,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -11193,7 +11199,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -12341,7 +12347,7 @@
                     "de": "Gleich wie",
                     "en": "Equivalent to",
                     "es": "Corresponde con",
-                    "it": "Gleich wie"
+                    "it": "Uguale a"
                   },
                   "description": {}
                 },
@@ -12446,7 +12452,8 @@
                       },
                       "Frühbyzantinisch": {
                         "labels": {
-                          "de": "Frühbyzantinisch"
+                          "de": "Frühbyzantinisch",
+                          "it": "Primo periodo Bizantino"
                         }
                       },
                       "Frühhellenistisch": {
@@ -12594,7 +12601,7 @@
                     "de": "Zeitlich nach",
                     "en": "After",
                     "es": "Cronología: después de",
-                    "it": "Zeitlich nach"
+                    "it": "Cronologicamente posteriore a"
                   },
                   "description": {}
                 },
@@ -12604,7 +12611,7 @@
                     "de": "Zeitlich vor",
                     "en": "Before",
                     "es": "Cronología: antes de",
-                    "it": "Zeitlich vor"
+                    "it": "Cronologicamente anteriore a"
                   },
                   "description": {}
                 },
@@ -12614,7 +12621,7 @@
                     "de": "Zeitgleich mit",
                     "en": "Contemporary with",
                     "es": "Cronología: simultáneo con",
-                    "it": "Zeitgleich mit"
+                    "it": "Contemporaneo a"
                   },
                   "description": {}
                 }
@@ -12623,7 +12630,7 @@
                 "de": "Zeit",
                 "en": "Time",
                 "es": "Cronología",
-                "it": "Tempo"
+                "it": "Cronologia"
               }
             }
           ],
@@ -12657,7 +12664,7 @@
                 "de": "Kategorie",
                 "en": "Category",
                 "es": "Categoría",
-                "it": "Kategorie"
+                "it": "Categoria"
               },
               "description": {}
             },
@@ -12676,13 +12683,13 @@
                 "de": "Bezeichner",
                 "en": "Identifier",
                 "es": "Identificador",
-                "it": "Bezeichner"
+                "it": "Identificatore"
               },
               "description": {
                 "de": "Eindeutiger Bezeichner dieser Ressource",
                 "en": "Unique identifier of this resource",
                 "es": "Identificador único de este recurso",
-                "it": "Eindeutiger Bezeichner dieser Ressource"
+                "it": "Identificatore unico di questa risorsa"
               }
             },
             {
@@ -12692,7 +12699,7 @@
                 "de": "Kurzbeschreibung",
                 "en": "Short description",
                 "es": "Breve descripción",
-                "it": "Kurzbeschreibung"
+                "it": "Descrizione breve"
               },
               "description": {}
             },
@@ -12717,7 +12724,7 @@
                 "de": "Wird gezeigt in",
                 "en": "Depicted in",
                 "es": "Representado en",
-                "it": "Wird gezeigt in"
+                "it": "È rappresentato in"
               },
               "description": {}
             },
@@ -12726,7 +12733,7 @@
               "label": {
                 "de": "Hat Kartenhintergrund",
                 "en": "Has map layer",
-                "it": "Hat Kartenhintergrund"
+                "it": "Ha lo sfondo cartografico"
               },
               "description": {}
             },
@@ -12950,7 +12957,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -12969,13 +12976,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -12985,7 +12992,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -13010,7 +13017,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -13019,7 +13026,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -13244,7 +13251,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -13263,13 +13270,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -13279,7 +13286,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -13304,7 +13311,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -13313,7 +13320,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -13563,7 +13570,7 @@
                 "de": "Kategorie",
                 "en": "Category",
                 "es": "Categoría",
-                "it": "Kategorie"
+                "it": "Categoria"
               },
               "description": {}
             },
@@ -13582,13 +13589,13 @@
                 "de": "Bezeichner",
                 "en": "Identifier",
                 "es": "Identificador",
-                "it": "Bezeichner"
+                "it": "Identificatore"
               },
               "description": {
                 "de": "Eindeutiger Bezeichner dieser Ressource",
                 "en": "Unique identifier of this resource",
                 "es": "Identificador único de este recurso",
-                "it": "Eindeutiger Bezeichner dieser Ressource"
+                "it": "Identificatore unico di questa risorsa"
               }
             },
             {
@@ -13598,7 +13605,7 @@
                 "de": "Kurzbeschreibung",
                 "en": "Short description",
                 "es": "Breve descripción",
-                "it": "Kurzbeschreibung"
+                "it": "Descrizione breve"
               },
               "description": {}
             },
@@ -13640,7 +13647,7 @@
                 "de": "Wird gezeigt in",
                 "en": "Depicted in",
                 "es": "Representado en",
-                "it": "Wird gezeigt in"
+                "it": "È rappresentato in"
               },
               "description": {}
             },
@@ -13649,7 +13656,7 @@
               "label": {
                 "de": "Hat Kartenhintergrund",
                 "en": "Has map layer",
-                "it": "Hat Kartenhintergrund"
+                "it": "Ha lo sfondo cartografico"
               },
               "description": {}
             },
@@ -14782,7 +14789,7 @@
                 "de": "Kategorie",
                 "en": "Category",
                 "es": "Categoría",
-                "it": "Kategorie"
+                "it": "Categoria"
               },
               "description": {}
             },
@@ -14801,13 +14808,13 @@
                 "de": "Bezeichner",
                 "en": "Identifier",
                 "es": "Identificador",
-                "it": "Bezeichner"
+                "it": "Identificatore"
               },
               "description": {
                 "de": "Eindeutiger Bezeichner dieser Ressource",
                 "en": "Unique identifier of this resource",
                 "es": "Identificador único de este recurso",
-                "it": "Eindeutiger Bezeichner dieser Ressource"
+                "it": "Identificatore unico di questa risorsa"
               }
             },
             {
@@ -14817,7 +14824,7 @@
                 "de": "Kurzbeschreibung",
                 "en": "Short description",
                 "es": "Breve descripción",
-                "it": "Kurzbeschreibung"
+                "it": "Descrizione breve"
               },
               "description": {}
             },
@@ -14859,7 +14866,7 @@
                 "de": "Wird gezeigt in",
                 "en": "Depicted in",
                 "es": "Representado en",
-                "it": "Wird gezeigt in"
+                "it": "È rappresentato in"
               },
               "description": {}
             },
@@ -14868,7 +14875,7 @@
               "label": {
                 "de": "Hat Kartenhintergrund",
                 "en": "Has map layer",
-                "it": "Hat Kartenhintergrund"
+                "it": "Ha lo sfondo cartografico"
               },
               "description": {}
             },
@@ -15269,7 +15276,8 @@
                   },
                   "Frühbyzantinisch": {
                     "labels": {
-                      "de": "Frühbyzantinisch"
+                      "de": "Frühbyzantinisch",
+                      "it": "Primo periodo Bizantino"
                     }
                   },
                   "Frühhellenistisch": {
@@ -15415,7 +15423,7 @@
             "de": "Zeit",
             "en": "Time",
             "es": "Cronología",
-            "it": "Tempo"
+            "it": "Cronologia"
           }
         }
       ],
@@ -15447,7 +15455,7 @@
                 "de": "Kategorie",
                 "en": "Category",
                 "es": "Categoría",
-                "it": "Kategorie"
+                "it": "Categoria"
               },
               "description": {}
             },
@@ -15466,13 +15474,13 @@
                 "de": "Bezeichner",
                 "en": "Identifier",
                 "es": "Identificador",
-                "it": "Bezeichner"
+                "it": "Identificatore"
               },
               "description": {
                 "de": "Eindeutiger Bezeichner dieser Ressource",
                 "en": "Unique identifier of this resource",
                 "es": "Identificador único de este recurso",
-                "it": "Eindeutiger Bezeichner dieser Ressource"
+                "it": "Identificatore unico di questa risorsa"
               }
             },
             {
@@ -15482,7 +15490,7 @@
                 "de": "Kurzbeschreibung",
                 "en": "Short description",
                 "es": "Breve descripción",
-                "it": "Kurzbeschreibung"
+                "it": "Descrizione breve"
               },
               "description": {}
             },
@@ -15539,7 +15547,7 @@
                 "de": "Wird gezeigt in",
                 "en": "Depicted in",
                 "es": "Representado en",
-                "it": "Wird gezeigt in"
+                "it": "È rappresentato in"
               },
               "description": {}
             },
@@ -15548,7 +15556,7 @@
               "label": {
                 "de": "Hat Kartenhintergrund",
                 "en": "Has map layer",
-                "it": "Hat Kartenhintergrund"
+                "it": "Ha lo sfondo cartografico"
               },
               "description": {}
             },
@@ -15602,7 +15610,7 @@
                 "de": "Typologische Einordnung",
                 "en": "Typological classification",
                 "es": "Clasificación tipológica",
-                "it": "Typologische Einordnung"
+                "it": "Classificazione tipologica"
               },
               "description": {}
             }
@@ -16317,7 +16325,8 @@
                   },
                   "Frühbyzantinisch": {
                     "labels": {
-                      "de": "Frühbyzantinisch"
+                      "de": "Frühbyzantinisch",
+                      "it": "Primo periodo Bizantino"
                     }
                   },
                   "Frühhellenistisch": {
@@ -16463,7 +16472,7 @@
             "de": "Zeit",
             "en": "Time",
             "es": "Cronología",
-            "it": "Tempo"
+            "it": "Cronologia"
           }
         }
       ],
@@ -16494,7 +16503,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -16513,13 +16522,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -16529,7 +16538,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -16586,7 +16595,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -16595,7 +16604,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -16649,7 +16658,7 @@
                     "de": "Typologische Einordnung",
                     "en": "Typological classification",
                     "es": "Clasificación tipológica",
-                    "it": "Typologische Einordnung"
+                    "it": "Classificazione tipologica"
                   },
                   "description": {}
                 }
@@ -20175,7 +20184,8 @@
                       },
                       "Frühbyzantinisch": {
                         "labels": {
-                          "de": "Frühbyzantinisch"
+                          "de": "Frühbyzantinisch",
+                          "it": "Primo periodo Bizantino"
                         }
                       },
                       "Frühhellenistisch": {
@@ -20321,7 +20331,7 @@
                 "de": "Zeit",
                 "en": "Time",
                 "es": "Cronología",
-                "it": "Tempo"
+                "it": "Cronologia"
               }
             }
           ],
@@ -20353,7 +20363,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -20372,13 +20382,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -20388,7 +20398,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -20445,7 +20455,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -20454,7 +20464,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -20508,7 +20518,7 @@
                     "de": "Typologische Einordnung",
                     "en": "Typological classification",
                     "es": "Clasificación tipológica",
-                    "it": "Typologische Einordnung"
+                    "it": "Classificazione tipologica"
                   },
                   "description": {}
                 }
@@ -23034,7 +23044,8 @@
                       },
                       "Frühbyzantinisch": {
                         "labels": {
-                          "de": "Frühbyzantinisch"
+                          "de": "Frühbyzantinisch",
+                          "it": "Primo periodo Bizantino"
                         }
                       },
                       "Frühhellenistisch": {
@@ -23180,7 +23191,7 @@
                 "de": "Zeit",
                 "en": "Time",
                 "es": "Cronología",
-                "it": "Tempo"
+                "it": "Cronologia"
               }
             }
           ],
@@ -23212,7 +23223,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -23231,13 +23242,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -23247,7 +23258,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -23304,7 +23315,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -23313,7 +23324,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -23367,7 +23378,7 @@
                     "de": "Typologische Einordnung",
                     "en": "Typological classification",
                     "es": "Clasificación tipológica",
-                    "it": "Typologische Einordnung"
+                    "it": "Classificazione tipologica"
                   },
                   "description": {}
                 }
@@ -25487,7 +25498,8 @@
                       },
                       "Frühbyzantinisch": {
                         "labels": {
-                          "de": "Frühbyzantinisch"
+                          "de": "Frühbyzantinisch",
+                          "it": "Primo periodo Bizantino"
                         }
                       },
                       "Frühhellenistisch": {
@@ -25633,7 +25645,7 @@
                 "de": "Zeit",
                 "en": "Time",
                 "es": "Cronología",
-                "it": "Tempo"
+                "it": "Cronologia"
               }
             }
           ],
@@ -25665,7 +25677,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -25684,13 +25696,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -25700,7 +25712,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -25757,7 +25769,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -25766,7 +25778,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -25820,7 +25832,7 @@
                     "de": "Typologische Einordnung",
                     "en": "Typological classification",
                     "es": "Clasificación tipológica",
-                    "it": "Typologische Einordnung"
+                    "it": "Classificazione tipologica"
                   },
                   "description": {}
                 }
@@ -27113,7 +27125,8 @@
                       },
                       "Frühbyzantinisch": {
                         "labels": {
-                          "de": "Frühbyzantinisch"
+                          "de": "Frühbyzantinisch",
+                          "it": "Primo periodo Bizantino"
                         }
                       },
                       "Frühhellenistisch": {
@@ -27259,7 +27272,7 @@
                 "de": "Zeit",
                 "en": "Time",
                 "es": "Cronología",
-                "it": "Tempo"
+                "it": "Cronologia"
               }
             }
           ],
@@ -27293,7 +27306,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -27312,13 +27325,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -27328,7 +27341,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -27385,7 +27398,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -27394,7 +27407,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -27448,7 +27461,7 @@
                     "de": "Typologische Einordnung",
                     "en": "Typological classification",
                     "es": "Clasificación tipológica",
-                    "it": "Typologische Einordnung"
+                    "it": "Classificazione tipologica"
                   },
                   "description": {}
                 }
@@ -29407,7 +29420,8 @@
                       },
                       "Frühbyzantinisch": {
                         "labels": {
-                          "de": "Frühbyzantinisch"
+                          "de": "Frühbyzantinisch",
+                          "it": "Primo periodo Bizantino"
                         }
                       },
                       "Frühhellenistisch": {
@@ -29553,7 +29567,7 @@
                 "de": "Zeit",
                 "en": "Time",
                 "es": "Cronología",
-                "it": "Tempo"
+                "it": "Cronologia"
               }
             }
           ],
@@ -29585,7 +29599,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -29604,13 +29618,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -29620,7 +29634,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -29677,7 +29691,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -29686,7 +29700,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -29740,7 +29754,7 @@
                     "de": "Typologische Einordnung",
                     "en": "Typological classification",
                     "es": "Clasificación tipológica",
-                    "it": "Typologische Einordnung"
+                    "it": "Classificazione tipologica"
                   },
                   "description": {}
                 }
@@ -31696,7 +31710,8 @@
                       },
                       "Frühbyzantinisch": {
                         "labels": {
-                          "de": "Frühbyzantinisch"
+                          "de": "Frühbyzantinisch",
+                          "it": "Primo periodo Bizantino"
                         }
                       },
                       "Frühhellenistisch": {
@@ -31842,7 +31857,7 @@
                 "de": "Zeit",
                 "en": "Time",
                 "es": "Cronología",
-                "it": "Tempo"
+                "it": "Cronologia"
               }
             }
           ],
@@ -31874,7 +31889,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -31893,13 +31908,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -31909,7 +31924,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -31966,7 +31981,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -31975,7 +31990,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -32029,7 +32044,7 @@
                     "de": "Typologische Einordnung",
                     "en": "Typological classification",
                     "es": "Clasificación tipológica",
-                    "it": "Typologische Einordnung"
+                    "it": "Classificazione tipologica"
                   },
                   "description": {}
                 }
@@ -33967,7 +33982,8 @@
                       },
                       "Frühbyzantinisch": {
                         "labels": {
-                          "de": "Frühbyzantinisch"
+                          "de": "Frühbyzantinisch",
+                          "it": "Primo periodo Bizantino"
                         }
                       },
                       "Frühhellenistisch": {
@@ -34113,7 +34129,7 @@
                 "de": "Zeit",
                 "en": "Time",
                 "es": "Cronología",
-                "it": "Tempo"
+                "it": "Cronologia"
               }
             }
           ],
@@ -34145,7 +34161,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -34164,13 +34180,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -34180,7 +34196,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -34237,7 +34253,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -34246,7 +34262,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -34300,7 +34316,7 @@
                     "de": "Typologische Einordnung",
                     "en": "Typological classification",
                     "es": "Clasificación tipológica",
-                    "it": "Typologische Einordnung"
+                    "it": "Classificazione tipologica"
                   },
                   "description": {}
                 }
@@ -35949,7 +35965,8 @@
                       },
                       "Frühbyzantinisch": {
                         "labels": {
-                          "de": "Frühbyzantinisch"
+                          "de": "Frühbyzantinisch",
+                          "it": "Primo periodo Bizantino"
                         }
                       },
                       "Frühhellenistisch": {
@@ -36095,7 +36112,7 @@
                 "de": "Zeit",
                 "en": "Time",
                 "es": "Cronología",
-                "it": "Tempo"
+                "it": "Cronologia"
               }
             }
           ],
@@ -36127,7 +36144,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -36146,13 +36163,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -36162,7 +36179,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -36219,7 +36236,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -36228,7 +36245,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -36282,7 +36299,7 @@
                     "de": "Typologische Einordnung",
                     "en": "Typological classification",
                     "es": "Clasificación tipológica",
-                    "it": "Typologische Einordnung"
+                    "it": "Classificazione tipologica"
                   },
                   "description": {}
                 }
@@ -39609,7 +39626,8 @@
                       },
                       "Frühbyzantinisch": {
                         "labels": {
-                          "de": "Frühbyzantinisch"
+                          "de": "Frühbyzantinisch",
+                          "it": "Primo periodo Bizantino"
                         }
                       },
                       "Frühhellenistisch": {
@@ -39755,7 +39773,7 @@
                 "de": "Zeit",
                 "en": "Time",
                 "es": "Cronología",
-                "it": "Tempo"
+                "it": "Cronologia"
               }
             }
           ],
@@ -39787,7 +39805,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -39806,13 +39824,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -39822,7 +39840,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -39879,7 +39897,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -39888,7 +39906,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -39942,7 +39960,7 @@
                     "de": "Typologische Einordnung",
                     "en": "Typological classification",
                     "es": "Clasificación tipológica",
-                    "it": "Typologische Einordnung"
+                    "it": "Classificazione tipologica"
                   },
                   "description": {}
                 }
@@ -40883,7 +40901,8 @@
                       },
                       "Frühbyzantinisch": {
                         "labels": {
-                          "de": "Frühbyzantinisch"
+                          "de": "Frühbyzantinisch",
+                          "it": "Primo periodo Bizantino"
                         }
                       },
                       "Frühhellenistisch": {
@@ -41029,7 +41048,7 @@
                 "de": "Zeit",
                 "en": "Time",
                 "es": "Cronología",
-                "it": "Tempo"
+                "it": "Cronologia"
               }
             }
           ],
@@ -41061,7 +41080,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -41080,13 +41099,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -41096,7 +41115,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -41153,7 +41172,7 @@
                     "de": "Wird gezeigt in",
                     "en": "Depicted in",
                     "es": "Representado en",
-                    "it": "Wird gezeigt in"
+                    "it": "È rappresentato in"
                   },
                   "description": {}
                 },
@@ -41162,7 +41181,7 @@
                   "label": {
                     "de": "Hat Kartenhintergrund",
                     "en": "Has map layer",
-                    "it": "Hat Kartenhintergrund"
+                    "it": "Ha lo sfondo cartografico"
                   },
                   "description": {}
                 },
@@ -41216,7 +41235,7 @@
                     "de": "Typologische Einordnung",
                     "en": "Typological classification",
                     "es": "Clasificación tipológica",
-                    "it": "Typologische Einordnung"
+                    "it": "Classificazione tipologica"
                   },
                   "description": {}
                 }
@@ -41987,7 +42006,8 @@
                       },
                       "Frühbyzantinisch": {
                         "labels": {
-                          "de": "Frühbyzantinisch"
+                          "de": "Frühbyzantinisch",
+                          "it": "Primo periodo Bizantino"
                         }
                       },
                       "Frühhellenistisch": {
@@ -42133,7 +42153,7 @@
                 "de": "Zeit",
                 "en": "Time",
                 "es": "Cronología",
-                "it": "Tempo"
+                "it": "Cronologia"
               }
             }
           ],
@@ -42168,7 +42188,7 @@
                 "de": "Kategorie",
                 "en": "Category",
                 "es": "Categoría",
-                "it": "Kategorie"
+                "it": "Categoria"
               },
               "description": {}
             },
@@ -42187,13 +42207,13 @@
                 "de": "Bezeichner",
                 "en": "Identifier",
                 "es": "Identificador",
-                "it": "Bezeichner"
+                "it": "Identificatore"
               },
               "description": {
                 "de": "Eindeutiger Bezeichner dieser Ressource",
                 "en": "Unique identifier of this resource",
                 "es": "Identificador único de este recurso",
-                "it": "Eindeutiger Bezeichner dieser Ressource"
+                "it": "Identificatore unico di questa risorsa"
               }
             },
             {
@@ -42203,7 +42223,7 @@
                 "de": "Kurzbeschreibung",
                 "en": "Short description",
                 "es": "Breve descripción",
-                "it": "Kurzbeschreibung"
+                "it": "Descrizione breve"
               },
               "description": {}
             },
@@ -42245,7 +42265,7 @@
                 "de": "Wird gezeigt in",
                 "en": "Depicted in",
                 "es": "Representado en",
-                "it": "Wird gezeigt in"
+                "it": "È rappresentato in"
               },
               "description": {}
             },
@@ -42254,7 +42274,7 @@
               "label": {
                 "de": "Hat Kartenhintergrund",
                 "en": "Has map layer",
-                "it": "Hat Kartenhintergrund"
+                "it": "Ha lo sfondo cartografico"
               },
               "description": {}
             },
@@ -42675,7 +42695,8 @@
                   },
                   "Frühbyzantinisch": {
                     "labels": {
-                      "de": "Frühbyzantinisch"
+                      "de": "Frühbyzantinisch",
+                      "it": "Primo periodo Bizantino"
                     }
                   },
                   "Frühhellenistisch": {
@@ -42821,7 +42842,7 @@
             "de": "Zeit",
             "en": "Time",
             "es": "Cronología",
-            "it": "Tempo"
+            "it": "Cronologia"
           }
         }
       ],
@@ -42853,7 +42874,7 @@
                 "de": "Kategorie",
                 "en": "Category",
                 "es": "Categoría",
-                "it": "Kategorie"
+                "it": "Categoria"
               },
               "description": {}
             },
@@ -42872,13 +42893,13 @@
                 "de": "Bezeichner",
                 "en": "Identifier",
                 "es": "Identificador",
-                "it": "Bezeichner"
+                "it": "Identificatore"
               },
               "description": {
                 "de": "Eindeutiger Bezeichner dieser Ressource",
                 "en": "Unique identifier of this resource",
                 "es": "Identificador único de este recurso",
-                "it": "Eindeutiger Bezeichner dieser Ressource"
+                "it": "Identificatore unico di questa risorsa"
               }
             },
             {
@@ -42888,7 +42909,7 @@
                 "de": "Kurzbeschreibung",
                 "en": "Short description",
                 "es": "Breve descripción",
-                "it": "Kurzbeschreibung"
+                "it": "Descrizione breve"
               },
               "description": {}
             },
@@ -42920,9 +42941,7 @@
                 "it": "Responsabile"
               },
               "description": {
-                "de": "Die Person(en), die für die Ressource oder das Objekt während der Kampagne hauptverantwortlich ist/sind. Wichtig: Die Namen der Personen, die den Eintrag in der Datenbank eintragen bzw. bearbeiten, werden automatisch gespeichert und müssen daher hier nicht angegeben werden.",
-                "en": "Processor of the image in case of changes after the creation of the image",
-                "it": "La persona o le persone responsabili della risorsa o dell'oggetto durante la campagna. Importante: i nomi delle persone che inseriscono o modificano la voce nella banca dati vengono salvati automaticamente e quindi non devono essere inseriti qui"
+                "en": "Processor of the image in case of changes after the creation of the image"
               }
             },
             {
@@ -42946,7 +42965,7 @@
                 "de": "Zeigt",
                 "en": "Depicts",
                 "es": "Representa",
-                "it": "Zeigt"
+                "it": "Rappresenta"
               },
               "description": {}
             },
@@ -42955,7 +42974,7 @@
               "label": {
                 "de": "Kartenhintergrund von",
                 "en": "Map layer of",
-                "it": "Kartenhintergrund von"
+                "it": "Sfondo cartografico di"
               },
               "description": {}
             }
@@ -42978,7 +42997,7 @@
                 "de": "Höhe",
                 "en": "Height",
                 "es": "Altura",
-                "it": "Höhe"
+                "it": "Altezza"
               },
               "description": {}
             },
@@ -42990,7 +43009,7 @@
                 "de": "Breite",
                 "en": "Width",
                 "es": "Anchura",
-                "it": "Breite"
+                "it": "Larghezza"
               },
               "description": {}
             },
@@ -43078,7 +43097,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -43097,13 +43116,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -43113,7 +43132,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -43145,9 +43164,7 @@
                     "it": "Responsabile"
                   },
                   "description": {
-                    "de": "Die Person(en), die für die Ressource oder das Objekt während der Kampagne hauptverantwortlich ist/sind. Wichtig: Die Namen der Personen, die den Eintrag in der Datenbank eintragen bzw. bearbeiten, werden automatisch gespeichert und müssen daher hier nicht angegeben werden.",
-                    "en": "Processor of the image in case of changes after the creation of the image",
-                    "it": "La persona o le persone responsabili della risorsa o dell'oggetto durante la campagna. Importante: i nomi delle persone che inseriscono o modificano la voce nella banca dati vengono salvati automaticamente e quindi non devono essere inseriti qui"
+                    "en": "Processor of the image in case of changes after the creation of the image"
                   }
                 },
                 {
@@ -43171,7 +43188,7 @@
                     "de": "Zeigt",
                     "en": "Depicts",
                     "es": "Representa",
-                    "it": "Zeigt"
+                    "it": "Rappresenta"
                   },
                   "description": {}
                 },
@@ -43180,7 +43197,7 @@
                   "label": {
                     "de": "Kartenhintergrund von",
                     "en": "Map layer of",
-                    "it": "Kartenhintergrund von"
+                    "it": "Sfondo cartografico di"
                   },
                   "description": {}
                 }
@@ -43203,7 +43220,7 @@
                     "de": "Höhe",
                     "en": "Height",
                     "es": "Altura",
-                    "it": "Höhe"
+                    "it": "Altezza"
                   },
                   "description": {}
                 },
@@ -43215,7 +43232,7 @@
                     "de": "Breite",
                     "en": "Width",
                     "es": "Anchura",
-                    "it": "Breite"
+                    "it": "Larghezza"
                   },
                   "description": {}
                 },
@@ -43556,7 +43573,7 @@
                     "de": "Kategorie",
                     "en": "Category",
                     "es": "Categoría",
-                    "it": "Kategorie"
+                    "it": "Categoria"
                   },
                   "description": {}
                 },
@@ -43575,13 +43592,13 @@
                     "de": "Bezeichner",
                     "en": "Identifier",
                     "es": "Identificador",
-                    "it": "Bezeichner"
+                    "it": "Identificatore"
                   },
                   "description": {
                     "de": "Eindeutiger Bezeichner dieser Ressource",
                     "en": "Unique identifier of this resource",
                     "es": "Identificador único de este recurso",
-                    "it": "Eindeutiger Bezeichner dieser Ressource"
+                    "it": "Identificatore unico di questa risorsa"
                   }
                 },
                 {
@@ -43591,7 +43608,7 @@
                     "de": "Kurzbeschreibung",
                     "en": "Short description",
                     "es": "Breve descripción",
-                    "it": "Kurzbeschreibung"
+                    "it": "Descrizione breve"
                   },
                   "description": {}
                 },
@@ -43623,9 +43640,7 @@
                     "it": "Responsabile"
                   },
                   "description": {
-                    "de": "Die Person(en), die für die Ressource oder das Objekt während der Kampagne hauptverantwortlich ist/sind. Wichtig: Die Namen der Personen, die den Eintrag in der Datenbank eintragen bzw. bearbeiten, werden automatisch gespeichert und müssen daher hier nicht angegeben werden.",
-                    "en": "Processor of the image in case of changes after the creation of the image",
-                    "it": "La persona o le persone responsabili della risorsa o dell'oggetto durante la campagna. Importante: i nomi delle persone che inseriscono o modificano la voce nella banca dati vengono salvati automaticamente e quindi non devono essere inseriti qui"
+                    "en": "Processor of the image in case of changes after the creation of the image"
                   }
                 },
                 {
@@ -43649,7 +43664,7 @@
                     "de": "Zeigt",
                     "en": "Depicts",
                     "es": "Representa",
-                    "it": "Zeigt"
+                    "it": "Rappresenta"
                   },
                   "description": {}
                 },
@@ -43658,7 +43673,7 @@
                   "label": {
                     "de": "Kartenhintergrund von",
                     "en": "Map layer of",
-                    "it": "Kartenhintergrund von"
+                    "it": "Sfondo cartografico di"
                   },
                   "description": {}
                 }
@@ -43681,7 +43696,7 @@
                     "de": "Höhe",
                     "en": "Height",
                     "es": "Altura",
-                    "it": "Höhe"
+                    "it": "Altezza"
                   },
                   "description": {}
                 },
@@ -43693,7 +43708,7 @@
                     "de": "Breite",
                     "en": "Width",
                     "es": "Anchura",
-                    "it": "Breite"
+                    "it": "Larghezza"
                   },
                   "description": {}
                 },
@@ -43785,7 +43800,7 @@
                 "de": "Kategorie",
                 "en": "Category",
                 "es": "Categoría",
-                "it": "Kategorie"
+                "it": "Categoria"
               },
               "description": {}
             },
@@ -43804,13 +43819,13 @@
                 "de": "Bezeichner",
                 "en": "Identifier",
                 "es": "Identificador",
-                "it": "Bezeichner"
+                "it": "Identificatore"
               },
               "description": {
                 "de": "Eindeutiger Bezeichner dieser Ressource",
                 "en": "Unique identifier of this resource",
                 "es": "Identificador único de este recurso",
-                "it": "Eindeutiger Bezeichner dieser Ressource"
+                "it": "Identificatore unico di questa risorsa"
               }
             },
             {
@@ -43820,7 +43835,7 @@
                 "de": "Kurzbeschreibung",
                 "en": "Short description",
                 "es": "Breve descripción",
-                "it": "Kurzbeschreibung"
+                "it": "Descrizione breve"
               },
               "description": {}
             },
@@ -43877,7 +43892,7 @@
                 "de": "Wird gezeigt in",
                 "en": "Depicted in",
                 "es": "Representado en",
-                "it": "Wird gezeigt in"
+                "it": "È rappresentato in"
               },
               "description": {}
             },
@@ -43886,7 +43901,7 @@
               "label": {
                 "de": "Hat Kartenhintergrund",
                 "en": "Has map layer",
-                "it": "Hat Kartenhintergrund"
+                "it": "Ha lo sfondo cartografico"
               },
               "description": {}
             },
@@ -44110,7 +44125,7 @@
             "de": "Zeit",
             "en": "Time",
             "es": "Cronología",
-            "it": "Tempo"
+            "it": "Cronologia"
           }
         }
       ],
@@ -44143,7 +44158,7 @@
                 "de": "Kategorie",
                 "en": "Category",
                 "es": "Categoría",
-                "it": "Kategorie"
+                "it": "Categoria"
               },
               "description": {}
             },
@@ -44162,13 +44177,13 @@
                 "de": "Bezeichner",
                 "en": "Identifier",
                 "es": "Identificador",
-                "it": "Bezeichner"
+                "it": "Identificatore"
               },
               "description": {
                 "de": "Eindeutiger Bezeichner dieser Ressource",
                 "en": "Unique identifier of this resource",
                 "es": "Identificador único de este recurso",
-                "it": "Eindeutiger Bezeichner dieser Ressource"
+                "it": "Identificatore unico di questa risorsa"
               }
             },
             {
@@ -44178,7 +44193,7 @@
                 "de": "Kurzbeschreibung",
                 "en": "Short description",
                 "es": "Breve descripción",
-                "it": "Kurzbeschreibung"
+                "it": "Descrizione breve"
               },
               "description": {}
             },
@@ -44235,7 +44250,7 @@
                 "de": "Wird gezeigt in",
                 "en": "Depicted in",
                 "es": "Representado en",
-                "it": "Wird gezeigt in"
+                "it": "È rappresentato in"
               },
               "description": {}
             },
@@ -44244,7 +44259,7 @@
               "label": {
                 "de": "Hat Kartenhintergrund",
                 "en": "Has map layer",
-                "it": "Hat Kartenhintergrund"
+                "it": "Ha lo sfondo cartografico"
               },
               "description": {}
             },
@@ -44468,7 +44483,7 @@
             "de": "Zeit",
             "en": "Time",
             "es": "Cronología",
-            "it": "Tempo"
+            "it": "Cronologia"
           }
         }
       ],
@@ -44501,7 +44516,7 @@
                 "de": "Kategorie",
                 "en": "Category",
                 "es": "Categoría",
-                "it": "Kategorie"
+                "it": "Categoria"
               },
               "description": {}
             },
@@ -44520,13 +44535,13 @@
                 "de": "Bezeichner",
                 "en": "Identifier",
                 "es": "Identificador",
-                "it": "Bezeichner"
+                "it": "Identificatore"
               },
               "description": {
                 "de": "Eindeutiger Bezeichner dieser Ressource",
                 "en": "Unique identifier of this resource",
                 "es": "Identificador único de este recurso",
-                "it": "Eindeutiger Bezeichner dieser Ressource"
+                "it": "Identificatore unico di questa risorsa"
               }
             },
             {
@@ -44536,7 +44551,7 @@
                 "de": "Kurzbeschreibung",
                 "en": "Short description",
                 "es": "Breve descripción",
-                "it": "Kurzbeschreibung"
+                "it": "Descrizione breve"
               },
               "description": {}
             },
@@ -44593,7 +44608,7 @@
                 "de": "Wird gezeigt in",
                 "en": "Depicted in",
                 "es": "Representado en",
-                "it": "Wird gezeigt in"
+                "it": "È rappresentato in"
               },
               "description": {}
             },
@@ -44602,7 +44617,7 @@
               "label": {
                 "de": "Hat Kartenhintergrund",
                 "en": "Has map layer",
-                "it": "Hat Kartenhintergrund"
+                "it": "Ha lo sfondo cartografico"
               },
               "description": {}
             },
@@ -44812,7 +44827,7 @@
             "de": "Zeit",
             "en": "Time",
             "es": "Cronología",
-            "it": "Tempo"
+            "it": "Cronologia"
           }
         }
       ],
@@ -44844,7 +44859,7 @@
                 "de": "Kategorie",
                 "en": "Category",
                 "es": "Categoría",
-                "it": "Kategorie"
+                "it": "Categoria"
               },
               "description": {}
             },
@@ -44862,7 +44877,7 @@
                 "de": "Kurzbeschreibung",
                 "en": "Short description",
                 "es": "Breve descripción",
-                "it": "Kurzbeschreibung"
+                "it": "Descrizione breve"
               },
               "description": {}
             }
@@ -44874,7 +44889,7 @@
                 "de": "Wird gezeigt in",
                 "en": "Depicted in",
                 "es": "Representado en",
-                "it": "Wird gezeigt in"
+                "it": "È rappresentato in"
               },
               "description": {}
             },
@@ -44883,7 +44898,7 @@
               "label": {
                 "de": "Hat Kartenhintergrund",
                 "en": "Has map layer",
-                "it": "Hat Kartenhintergrund"
+                "it": "Ha lo sfondo cartografico"
               },
               "description": {}
             }
@@ -45024,6 +45039,17 @@
               }
             },
             {
+              "inputType": "text",
+              "source": "library",
+              "name": "license",
+              "label": {
+                "de": "Lizenzinformationen",
+                "en": "License information",
+                "it": "Licenza"
+              },
+              "description": {}
+            },
+            {
               "inputType": "unsignedInt",
               "source": "library",
               "name": "gazId",
@@ -45116,7 +45142,7 @@
                 "de": "Koordinatenbezugssystem",
                 "en": "Coordinate reference system",
                 "es": "Sistema de referencia de coordenadas",
-                "it": "Koordinatenbezugssystem"
+                "it": "Sistema di riferimento delle coordinate"
               },
               "description": {}
             },
@@ -45128,13 +45154,13 @@
                 "de": "Bezeichner",
                 "en": "Identifier",
                 "es": "Identificador",
-                "it": "Bezeichner"
+                "it": "Identificatore"
               },
               "description": {
                 "de": "Eindeutiger Bezeichner dieser Ressource",
                 "en": "Unique identifier of this resource",
                 "es": "Identificador único de este recurso",
-                "it": "Eindeutiger Bezeichner dieser Ressource"
+                "it": "Identificatore unico di questa risorsa"
               }
             }
           ],
@@ -45174,7 +45200,7 @@
                 "de": "Kategorie",
                 "en": "Category",
                 "es": "Categoría",
-                "it": "Kategorie"
+                "it": "Categoria"
               },
               "description": {}
             },
@@ -45193,13 +45219,13 @@
                 "de": "Bezeichner",
                 "en": "Identifier",
                 "es": "Identificador",
-                "it": "Bezeichner"
+                "it": "Identificatore"
               },
               "description": {
                 "de": "Eindeutiger Bezeichner dieser Ressource",
                 "en": "Unique identifier of this resource",
                 "es": "Identificador único de este recurso",
-                "it": "Eindeutiger Bezeichner dieser Ressource"
+                "it": "Identificatore unico di questa risorsa"
               }
             },
             {
@@ -45209,7 +45235,7 @@
                 "de": "Kurzbeschreibung",
                 "en": "Short description",
                 "es": "Breve descripción",
-                "it": "Kurzbeschreibung"
+                "it": "Descrizione breve"
               },
               "description": {}
             }
@@ -45221,7 +45247,7 @@
                 "de": "Wird gezeigt in",
                 "en": "Depicted in",
                 "es": "Representado en",
-                "it": "Wird gezeigt in"
+                "it": "È rappresentato in"
               },
               "description": {}
             },
@@ -45230,7 +45256,7 @@
               "label": {
                 "de": "Hat Kartenhintergrund",
                 "en": "Has map layer",
-                "it": "Hat Kartenhintergrund"
+                "it": "Ha lo sfondo cartografico"
               },
               "description": {}
             }
@@ -45353,7 +45379,7 @@
                 "de": "Kategorie",
                 "en": "Category",
                 "es": "Categoría",
-                "it": "Kategorie"
+                "it": "Categoria"
               },
               "description": {}
             },
@@ -45372,13 +45398,13 @@
                 "de": "Bezeichner",
                 "en": "Identifier",
                 "es": "Identificador",
-                "it": "Bezeichner"
+                "it": "Identificatore"
               },
               "description": {
                 "de": "Eindeutiger Bezeichner dieser Ressource",
                 "en": "Unique identifier of this resource",
                 "es": "Identificador único de este recurso",
-                "it": "Eindeutiger Bezeichner dieser Ressource"
+                "it": "Identificatore unico di questa risorsa"
               }
             },
             {
@@ -45388,7 +45414,7 @@
                 "de": "Kurzbeschreibung",
                 "en": "Short description",
                 "es": "Breve descripción",
-                "it": "Kurzbeschreibung"
+                "it": "Descrizione breve"
               },
               "description": {}
             }
@@ -45400,7 +45426,7 @@
                 "de": "Wird gezeigt in",
                 "en": "Depicted in",
                 "es": "Representado en",
-                "it": "Wird gezeigt in"
+                "it": "È rappresentato in"
               },
               "description": {}
             },
@@ -45409,7 +45435,7 @@
               "label": {
                 "de": "Hat Kartenhintergrund",
                 "en": "Has map layer",
-                "it": "Hat Kartenhintergrund"
+                "it": "Ha lo sfondo cartografico"
               },
               "description": {}
             },
@@ -45441,7 +45467,7 @@
                 "de": "Zugeordnete Funde",
                 "en": "Associated finds",
                 "es": "Hallazgos relacionados",
-                "it": "Zugeordnete Funde"
+                "it": "Reperti pertinenti"
               },
               "description": {}
             }
