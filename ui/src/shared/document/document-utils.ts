@@ -36,10 +36,12 @@ export const isCategory = (document: ResultDocument, category: string): boolean 
     document.resource.category.name === category;
 
 
-const getLink = (doc: ResultDocument, projectId): [string, string] => {
+const getLink = (doc: ResultDocument, projectId: string): [string, string] => {
 
     return isImage(doc)
-        ? ['', `/image/${projectId}/${doc.resource.id}`]
+        ? [window.location.href.includes(CONFIGURATION.fieldUrl)
+            ? CONFIGURATION.fieldUrl
+            : CONFIGURATION.shapesUrl, `/image/${projectId}/${doc.resource.id}`]
         : isCategory(doc, 'Type') || isCategory(doc, 'TypeCatalog')
             ? [CONFIGURATION.shapesUrl, `/document/${doc.resource.id}`]
             : [CONFIGURATION.fieldUrl,
