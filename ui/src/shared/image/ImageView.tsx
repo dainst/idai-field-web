@@ -9,8 +9,11 @@ import { Document } from '../../api/document';
 import { get } from '../../api/documents';
 import { makeUrl } from '../../api/image';
 import { NAVBAR_HEIGHT, SIDEBAR_WIDTH } from '../../constants';
+import { getDocumentPermalink } from '../document/document-utils';
 import DocumentDetails from '../document/DocumentDetails';
+import DocumentPermalinkButton from '../document/DocumentPermalinkButton';
 import DocumentTeaser from '../document/DocumentTeaser';
+import LicenseInformationButton from '../document/LicenseInformationButton';
 import LinkButton from '../linkbutton/LinkButton';
 import { useSearchParams } from '../location';
 import { LoginContext } from '../login';
@@ -67,7 +70,13 @@ const renderDocumentDetails = (document: Document, comingFrom: string): ReactNod
                     <Icon path={ mdiMenuLeft } size={ 1 }></Icon>
                 </LinkButton>
             </div>
-            <DocumentTeaser document={ document } />
+            <div style={ teaserContainerStyle }>
+                    <DocumentTeaser document={ document } />
+                </div>
+                <div style={ headerButtonsContainerStyle }>
+                    <LicenseInformationButton license={ document.resource.license } />
+                    <DocumentPermalinkButton url={ getDocumentPermalink(document) } />
+                </div>
         </Card.Header>
         <Card.Body style={ cardBodyStyle }>
             <DocumentDetails document={ document } baseUrl="" />
@@ -116,4 +125,15 @@ const leftSidebarStyle: CSSProperties = {
     display: 'flex',
     flexDirection: 'column',
     backgroundColor: '#d3d3cf'
+};
+
+const teaserContainerStyle: CSSProperties = {
+    flex: '1 1'
+};
+
+
+const headerButtonsContainerStyle: CSSProperties = {
+    display: 'flex',
+    flex: '0 0 45px',
+    alignItems: 'center'
 };
