@@ -65,11 +65,11 @@ export default function ImageView(): ReactElement {
 const renderDocumentDetails = (document: Document, comingFrom: string): ReactNode =>
     <Card style={ cardStyle }>
         <Card.Header className="d-flex p-2">
-            <div>
+            { comingFrom && <div>
                 <LinkButton to={ comingFrom } style={ { height: '100%' } } variant={ 'link' }>
                     <Icon path={ mdiMenuLeft } size={ 1 }></Icon>
                 </LinkButton>
-            </div>
+            </div> }
             <div style={ teaserContainerStyle }>
                     <DocumentTeaser document={ document } />
                 </div>
