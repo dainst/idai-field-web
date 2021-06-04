@@ -72,7 +72,7 @@ const renderFieldList = (fields: Field[], t: TFunction): ReactNode => {
             const valueElements = renderFieldValue(field.value, t);
             return valueElements ? [
                 <dt key={ `${field.name}_dt` }>{ renderMultiLanguageText(field, t) }</dt>,
-                <dd key={ `${field.name}_dd` }>{ valueElements }</dd>
+                <dd style={ valueElementsStyle } key={ `${field.name}_dd` }>{ valueElements }</dd>
             ] : undefined;
         });
     return fieldElements ? <dl style={ listStyle }>{ fieldElements }</dl> : <></>;
@@ -228,4 +228,9 @@ const listStyle: CSSProperties = {
 const linkIconContainerStyle: CSSProperties = {
     position: 'relative',
     bottom: '1px'
+};
+
+
+const valueElementsStyle: CSSProperties = {
+    whiteSpace: 'pre-line'
 };
