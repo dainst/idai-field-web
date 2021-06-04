@@ -75,7 +75,8 @@ const titleStyle: CSSProperties = {
 
 const licenseTextStyle: CSSProperties = {
     maxHeight: 'calc(100vh - 200px)',
-    overflowY: 'auto'
+    overflowY: 'auto',
+    whiteSpace: 'pre-line'
 };
 
 
