@@ -48234,6 +48234,16 @@
           "name": "parent",
           "fields": [
             {
+              "inputType": "input",
+              "source": "builtin",
+              "name": "shortName",
+              "label": {
+                "de": "Kurzbezeichnung",
+                "en": "Short name"
+              },
+              "description": {}
+            },
+            {
               "inputType": "text",
               "source": "common",
               "name": "description",
