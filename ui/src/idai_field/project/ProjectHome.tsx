@@ -13,6 +13,7 @@ import { Result, ResultDocument, ResultFilter } from '../../api/result';
 import { NAVBAR_HEIGHT, SIDEBAR_WIDTH } from '../../constants';
 import { getDocumentPermalink } from '../../shared/document/document-utils';
 import DocumentPermalinkButton from '../../shared/document/DocumentPermalinkButton';
+import LicenseInformationButton from '../../shared/document/LicenseInformationButton';
 import { ImageCarousel } from '../../shared/image/ImageCarousel';
 import { useSearchParams } from '../../shared/location';
 import { LoginContext } from '../../shared/login';
@@ -78,7 +79,8 @@ const renderTitle = (title: string, projectDoc: Document) =>
         <div className="flex-fill">
             <h2><img src="/marker-icon.svg" alt="Home" style={ homeIconStyle } /> {title}</h2>
         </div>
-        <div className="flex-fill text-right">
+        <div className="text-right" style={ buttonsStyle }>
+            <LicenseInformationButton license={ projectDoc.resource.license } />
             <DocumentPermalinkButton url={ getDocumentPermalink(projectDoc) } />
         </div>
     </div>;
@@ -210,6 +212,15 @@ const containerStyle: CSSProperties = {
 const headerStyle: CSSProperties = {
     color: 'var(--main-link-color)',
     borderBottom: '4px dotted var(--main-link-color)'
+};
+
+const buttonsStyle: CSSProperties = {
+    display: 'flex',
+    flex: '0 0 45px',
+    alignItems: 'center',
+    position: 'relative',
+    bottom: '4px',
+    height: '38px',
 };
 
 const sidebarStyles: CSSProperties = {
