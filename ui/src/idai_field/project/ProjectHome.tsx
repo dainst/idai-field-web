@@ -19,7 +19,6 @@ import { LoginContext } from '../../shared/login';
 import SearchBar from '../../shared/search/SearchBar';
 import { EXCLUDED_CATEGORIES } from '../constants';
 import CategoryFilter from '../filter/CategoryFilter';
-import { getProjectLabel } from '../projects';
 import ProjectHierarchyButton from './ProjectHierarchyButton';
 import ProjectMap from './ProjectMap';
 
