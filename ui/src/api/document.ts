@@ -24,6 +24,7 @@ export interface Resource {
     id: string;
     identifier: string;
     shortDescription: string;
+    shortName?: string;
     groups: FieldGroup[];
     geometry: Geometry;
     childrenCount: number;

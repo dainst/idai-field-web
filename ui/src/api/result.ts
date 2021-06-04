@@ -23,6 +23,7 @@ export interface ResultResource {
     id: string;
     identifier: string;
     shortDescription: string;
+    shortName?: string;
     childrenCount: number;
     parentId: string;
     grandparentId: string;

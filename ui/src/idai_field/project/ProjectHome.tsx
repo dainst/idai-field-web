@@ -56,7 +56,7 @@ export default function ProjectHome ():ReactElement {
 
         if (projectDoc) {
             setImages(getDocumentImages(projectDoc));
-            setTitle(getProjectLabel(projectDoc));
+            setTitle(getProjectTitle(projectDoc));
         }
     }, [projectDoc, projectId]);
  
@@ -193,6 +193,14 @@ const initFilters = async (id: string, searchParams: URLSearchParams, token: str
     let query = buildProjectQueryTemplate(id, 0, 0, EXCLUDED_CATEGORIES);
     query = parseFrontendGetParams(searchParams, query);
     return search(query, token);
+};
+
+
+const getProjectTitle = (projectDocument: Document): string => {
+
+    return projectDocument.resource.shortDescription
+        ?? projectDocument.resource.shortName
+        ?? projectDocument.resource.identifier;
 };
 
 
