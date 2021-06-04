@@ -47,6 +47,9 @@ export default function OverviewMap({ documents, filter }
         map.getView().fit((vectorLayer.getSource() as VectorSource<Geometry>).getExtent(),
             { padding: FIT_OPTIONS.padding });
 
+        const documentsWithCoordinates = documents.filter(document => document.resource.geometry_wgs84);
+        if (documentsWithCoordinates.length === 1) map.getView().setZoom(2);
+
         const onPointerMove = (e: MapBrowserEvent) => {
             const pixel = map.getEventPixel(e.originalEvent);
             const hit = map.hasFeatureAtPixel(pixel,
