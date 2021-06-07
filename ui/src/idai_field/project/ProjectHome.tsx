@@ -169,7 +169,7 @@ const renderProjectDetails = (projectDoc: Document, t: TFunction) =>
         <dd>{ (getFieldValue(projectDoc, 'parent', 'staff') as FieldValue[])?.join(', ') }</dd>
         <dt>{ t('projectHome.links') }</dt>
         <dd>
-            <ul className="list-unstyled">
+            <ul className="list-unstyled" style={ listStyle }>
                 <li>
                     <a href={ `${getFieldValue(projectDoc, 'parent', 'externalReference')?.toString()}` }
                             target="_blank" rel="noreferrer">
@@ -200,7 +200,7 @@ const renderBibliographicReferences = (projectDocument: Document, t: TFunction) 
     return <>
         <dt>{ t('projectHome.bibliography') }</dt>
         <dd>
-            <ul className="list-unstyled">
+            <ul className="list-unstyled" style={ listStyle }>
                 { bibliographicReferences.map(renderBibliographicReference) }
             </ul>
         </dd>
@@ -273,6 +273,10 @@ const imageCarouselStyle: CSSProperties = {
 
 const contentStyle: CSSProperties = {
     overflowY: 'auto'
+};
+
+const listStyle: CSSProperties = {
+    marginBottom: 0
 };
 
 const mapContainerStyle: CSSProperties = {
