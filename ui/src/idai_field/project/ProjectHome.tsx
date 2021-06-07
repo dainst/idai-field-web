@@ -208,10 +208,10 @@ const renderBibliographicReferences = (projectDocument: Document, t: TFunction) 
 };
 
 
-const renderBibliographicReference = (bibliographicReference: Literature) => {
+const renderBibliographicReference = (bibliographicReference: Literature, index: number) => {
 
     // TODO Use newest Literature typings from idai-field-core
-    return <li>
+    return <li key={ `bibliographic-reference-${index}` }>
         <a href={ bibliographicReference['doi'] }
             target="_blank" rel="noopener noreferrer">
             { bibliographicReference.quotation }
