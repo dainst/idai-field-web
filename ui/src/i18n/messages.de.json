@@ -49,7 +49,8 @@
     "staff": "Mitarbeiter*innen",
     "links": "Weiterführende Informationen",
     "externalReference": "Projekt-Homepage",
-    "gazId": "iDAI.gazetteer"
+    "gazId": "iDAI.gazetteer",
+    "bibliography": "Bibliographie"
   },
   "projectsOverview": {
     "backendNotAvailable": "Backend not available!"

@@ -2,6 +2,7 @@ import { mdiEmail, mdiMapMarker, mdiWeb } from '@mdi/js';
 import Icon from '@mdi/react';
 import { Location } from 'history';
 import { TFunction } from 'i18next';
+import { Literature } from 'idai-field-core';
 import React, { CSSProperties, ReactElement, useContext, useEffect, useState } from 'react';
 import { Card } from 'react-bootstrap';
 import { useTranslation } from 'react-i18next';
@@ -186,7 +187,37 @@ const renderProjectDetails = (projectDoc: Document, t: TFunction) =>
                 </li>
             </ul>
         </dd>
+        { renderBibliographicReferences(projectDoc, t) }
     </dl>;
+
+
+const renderBibliographicReferences = (projectDocument: Document, t: TFunction) => {
+    
+    const bibliographicReferences: Literature[]
+        = getFieldValue(projectDocument, 'parent', 'bibliographicReferences') as Literature[];
+    if (!bibliographicReferences) return <></>;
+
+    return <>
+        <dt>{ t('projectHome.bibliography') }</dt>
+        <dd>
+            <ul className="list-unstyled">
+                { bibliographicReferences.map(renderBibliographicReference) }
+            </ul>
+        </dd>
+    </>;
+};
+
+
+const renderBibliographicReference = (bibliographicReference: Literature) => {
+
+    // TODO Use newest Literature typings from idai-field-core
+    return <li>
+        <a href={ bibliographicReference['doi'] }
+            target="_blank" rel="noopener noreferrer">
+            { bibliographicReference.quotation }
+        </a>
+    </li>;
+};
 
 
 const initFilters = async (id: string, searchParams: URLSearchParams, token: string): Promise<Result> => {
