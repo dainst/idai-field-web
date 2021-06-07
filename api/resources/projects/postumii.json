@@ -35407,6 +35407,16 @@
               }
             },
             {
+              "inputType": "literature",
+              "source": "library",
+              "name": "bibliographicReferences",
+              "label": {
+                "de": "Bibliographie",
+                "en": "Bibliography"
+              },
+              "description": {}
+            },
+            {
               "inputType": "text",
               "source": "library",
               "name": "license",
